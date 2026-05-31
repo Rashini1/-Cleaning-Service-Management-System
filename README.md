@@ -205,6 +205,4 @@ The frontend will run on `http://localhost:5173`
 - Real-time availability calendar
 - Rating and review system
 
-## License
-
-ISC
+ 

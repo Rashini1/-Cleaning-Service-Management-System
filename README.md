@@ -1,5 +1,7 @@
 # Cleaning Service Management System
 
+Demo video:  https://drive.google.com/file/d/1P9qmR2_jc2diqyPiwHCb2pUcTdz4upZm/view?usp=sharing
+
 A full-stack web application for managing cleaning service bookings. Built with React on the frontend and Express.js with MongoDB on the backend.
 
 ## Features

@@ -27,7 +27,7 @@ const SERVICES = [
     description:
       "Regular maintenance cleaning to keep your home consistently fresh. Ideal for weekly or bi-weekly visits.",
     features: ["Dusting & wiping", "Vacuuming & mopping", "Bathroom refresh", "Kitchen wipe-down", "Trash removal"],
-    image: "https://images.unsplash.com/photo-1527515637462-cff94aca208e?w=700&q=80",
+    image: " https://images.unsplash.com/photo-1563453392212-326f5e854473?w=700&q=80",
     badge: null,
   },
   {
@@ -92,7 +92,7 @@ const SERVICES = [
     description:
       "Industrial-grade steam cleaning for carpets and rugs. Removes deep-set dirt, allergens, and stubborn stains.",
     features: ["Hot steam extraction", "Stain pre-treatment", "Deodorizing", "Allergen removal", "Fast-dry technique"],
-    image: "https://images.unsplash.com/photo-1558618047-3c8c6d4f66a7?w=700&q=80",
+    image: " https://images.unsplash.com/photo-1558317374-067fb5f30001?w=700&q=80",
     badge: null,
   },
   {
